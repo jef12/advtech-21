@@ -1,0 +1,20 @@
+html {
+	background:#000;
+}
+body {
+	background:#fcc;
+	width:70%; padding:1%;
+}
+h1 {
+	background:#333; color:#fcc;
+	width:70%; padding:1%;
+}
+div {width:200px;height:200px;
+	border-radius:100px;
+	background:#f00;
+	transition: width .2s ease-out;
+	-webkit-transition:width .2s ease-out;
+}
+.final_state {
+	width:400px;
+}

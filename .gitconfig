@@ -1,0 +1,6 @@
+[user]
+	name = jef12
+	email = jef12@students.pti.edu
+[http]
+	sslVerify = false
+	proxy = http://sfproxy.pti.edu:80
